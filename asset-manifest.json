@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ignazka.github.io/lab-react-ironnutrition/static/css/main.d550567c.chunk.css",
+    "main.js": "/ignazka.github.io/lab-react-ironnutrition/static/js/main.102f8c16.chunk.js",
+    "main.js.map": "/ignazka.github.io/lab-react-ironnutrition/static/js/main.102f8c16.chunk.js.map",
+    "runtime-main.js": "/ignazka.github.io/lab-react-ironnutrition/static/js/runtime-main.2d389b5d.js",
+    "runtime-main.js.map": "/ignazka.github.io/lab-react-ironnutrition/static/js/runtime-main.2d389b5d.js.map",
+    "static/css/2.847439e0.chunk.css": "/ignazka.github.io/lab-react-ironnutrition/static/css/2.847439e0.chunk.css",
+    "static/js/2.9313c3e7.chunk.js": "/ignazka.github.io/lab-react-ironnutrition/static/js/2.9313c3e7.chunk.js",
+    "static/js/2.9313c3e7.chunk.js.map": "/ignazka.github.io/lab-react-ironnutrition/static/js/2.9313c3e7.chunk.js.map",
+    "index.html": "/ignazka.github.io/lab-react-ironnutrition/index.html",
+    "static/css/2.847439e0.chunk.css.map": "/ignazka.github.io/lab-react-ironnutrition/static/css/2.847439e0.chunk.css.map",
+    "static/css/main.d550567c.chunk.css.map": "/ignazka.github.io/lab-react-ironnutrition/static/css/main.d550567c.chunk.css.map",
+    "static/js/2.9313c3e7.chunk.js.LICENSE.txt": "/ignazka.github.io/lab-react-ironnutrition/static/js/2.9313c3e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d389b5d.js",
+    "static/css/2.847439e0.chunk.css",
+    "static/js/2.9313c3e7.chunk.js",
+    "static/css/main.d550567c.chunk.css",
+    "static/js/main.102f8c16.chunk.js"
+  ]
+}
